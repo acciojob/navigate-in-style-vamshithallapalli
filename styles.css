@@ -5,8 +5,6 @@
 }
  .navbar ul {
       list-style: none; /* removes bullets */
-      margin: 0;
-      padding: 0;
 }
 .navbar ul li {
       display: inline; /* makes list items horizontal */
