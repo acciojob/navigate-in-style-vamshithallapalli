@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
-nav{
+.navbar{
 	background-color: #D3D3D3;
 	padding: 10px;
 }
- nav ul {
+ .navbar ul {
       list-style: none; /* removes bullets */
       margin: 0;
       padding: 0;
 }
-nav ul li {
+.navbar ul li {
       display: inline; /* makes list items horizontal */
       margin-right: 1rem;
 }
